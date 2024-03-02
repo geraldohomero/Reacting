@@ -1,6 +1,6 @@
 ## O'Reilly React course
 
-This repository contains the code for the [O'Reilly React course](https://learning.oreilly.com/course/react-the/9781801812603/) by Maximilian Schwarzmüller
+This repository contains the code for the [O'Reilly React course](https://learning.oreilly.com/course/react-the/9781801812603/) by Maximilian Schwarzmüller.
 
 ## How to run the code
 
